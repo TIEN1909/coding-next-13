@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import logo from "../../assets/logo.png";
+import logo from "../../public/assets/logo.png";
 import Link from "next/link";
 import Button from "../Button/Button";
 const Header = () => {
