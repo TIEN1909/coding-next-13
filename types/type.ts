@@ -28,5 +28,5 @@ export interface Blog{
 }
 
 export interface Community{
-  image:string,
+  image?:string,
 }
